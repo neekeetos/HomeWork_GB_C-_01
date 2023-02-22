@@ -1,0 +1,15 @@
+G:\HomeWork\Seminar07\bin\Debug\net6.0\Seminar07.exe
+G:\HomeWork\Seminar07\bin\Debug\net6.0\Seminar07.deps.json
+G:\HomeWork\Seminar07\bin\Debug\net6.0\Seminar07.runtimeconfig.json
+G:\HomeWork\Seminar07\bin\Debug\net6.0\Seminar07.dll
+G:\HomeWork\Seminar07\bin\Debug\net6.0\Seminar07.pdb
+G:\HomeWork\Seminar07\obj\Debug\net6.0\Seminar07.csproj.AssemblyReference.cache
+G:\HomeWork\Seminar07\obj\Debug\net6.0\Seminar07.GeneratedMSBuildEditorConfig.editorconfig
+G:\HomeWork\Seminar07\obj\Debug\net6.0\Seminar07.AssemblyInfoInputs.cache
+G:\HomeWork\Seminar07\obj\Debug\net6.0\Seminar07.AssemblyInfo.cs
+G:\HomeWork\Seminar07\obj\Debug\net6.0\Seminar07.csproj.CoreCompileInputs.cache
+G:\HomeWork\Seminar07\obj\Debug\net6.0\Seminar07.dll
+G:\HomeWork\Seminar07\obj\Debug\net6.0\refint\Seminar07.dll
+G:\HomeWork\Seminar07\obj\Debug\net6.0\Seminar07.pdb
+G:\HomeWork\Seminar07\obj\Debug\net6.0\Seminar07.genruntimeconfig.cache
+G:\HomeWork\Seminar07\obj\Debug\net6.0\ref\Seminar07.dll
